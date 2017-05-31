@@ -12,7 +12,7 @@ class ActiveAssets extends AssetBundle
 	public $sourcePath = '@keygenqt/autocompleteAjax/assets';
 
 	public $js = [
-		'js/jquery-ui-1.9.2.custom.min.js',
+		'js/jquery-ui-1.12.1.custom.min.js',
 	];
 
 	public $depends = [
@@ -20,7 +20,7 @@ class ActiveAssets extends AssetBundle
 	];
 
 	public $css = [
-		'css/jquery-ui-1.9.2.custom.min.css',
+		'css/jquery-ui-1.12.1.custom.min.css',
 		'css/yii2-autocomplete-ajax.css',
 	];
 }
