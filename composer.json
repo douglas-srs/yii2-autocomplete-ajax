@@ -1,5 +1,5 @@
 {
-	"name": "douglas-srs/yii2-autocomplete-ajax",
+	"name": "douglassrs/yii2-autocomplete-ajax",
 	"description": "A simple way to search model id of the attributes model.",
 	"keywords": ["yii2", "extension", "widget", "autocomplete", "ajax", "jquery", "plugin"],
 	"homepage": "https://github.com/douglas-srs/yii2-autocomplete-ajax",
